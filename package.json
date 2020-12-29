@@ -1,0 +1,28 @@
+{
+  "name": "@2003scape/rsc-letters",
+  "version": "1.0.0",
+  "description": "archived letters from jagex to runescape classic players",
+  "main": "null",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2003scape/rsc-letters.git"
+  },
+  "keywords": [
+    "runescape",
+    "rsc",
+    "jagex",
+    "letters",
+    "guthix",
+    "zamorak",
+    "saradomin"
+  ],
+  "author": "2003Scape Team",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/2003scape/rsc-letters/issues"
+  },
+  "homepage": "https://github.com/2003scape/rsc-letters#readme"
+}
