@@ -11,7 +11,7 @@ And so it is that time again when I respond to your many questions regarding thi
 
 > Greetings great Saradomin. I am a great worshipper amongst you. You have made this world beautiful and as great as can be. However, there are many people that do not follow your religion. This is due to the large lack of people who bury bones. The world of Runescape needs a new bone, that will draw them ever closer to your spirituality. The solution to this, is dragon bones. As you know, dragons are the most grand of all foes in Runescape. Few warriors are able to slay these beasts of almighty power. But those who do should be especially awarded with dragon bones. With dragon bones your number of worshippers will increase beyond believe! And the evil powers of your brother Zamorak shall not stand a chance against the holy spiritual powers on the plane of Runescape. Please Saradomin, the fate of Runescape can not fall into Zamorak's hands.
 
-_Kormyr_
+*Kormyr*
 
 Hmm... Zamorak's not that bad you know - actually he's worse! But he is still my brother, even if he can't be bothered to keep in touch these days. I do agree about the bones though. This was a popular request, and I can tell you that they should be available within the next week! So consider your prayers answered, and get on down to your nearest dragon.
 
@@ -32,7 +32,7 @@ And so onto that most controversial of subjects - money. It appears that begging
 
 > Isn't it time we citizens do something back and pay some interest on what we keep in our banks?
 
-_Dalen-Van.Andre_
+*Dalen-Van.Andre*
 
 <a href="/images/skull-coin.jpg"><img class="rsc-image" src="/images/skull-coin.jpg" align="left" /></a>
 I am happy to say that those who tend the banks are in fact paid by the state, that most generous of organisations which so nobly provides for the welfare of so many institutions.
@@ -43,7 +43,7 @@ But Mr.Dalen-Van, I nonetheless salute you in your desire to reward those people
 
 > "Why can't you make all runescape for everybody for free, those member signs are very annoying please make every thing free."
 
-_Voldemort 45_
+*Voldemort 45*
 
 One individual even asked me how it feels to be "the first god that requires money to sustain your world." This confused me somewhat, as to my knowledge, Runescape is one of the largest free-worlds of its' kind, with at least one hundred hours of free quests and things to do.
 
@@ -61,13 +61,13 @@ But you cannot put a price on compassion, and so I am by no means deaf to your c
 
 > Greetings, As one of those many residents of your realm living in poverty, I often find myself wondering: Will these new graphics be available for even the poorest of RuneScape citizens? And what if the citizen is using a rustic system to run RuneScape on? What affect will these new and grand updates have upon us misfortunates? Your friend and follower,
 
-_Sir Justin_
+*Sir Justin*
 
 And I am happy to announce that the answer is an emphatic yes! Non-members will certainly be going 3-D, and what's more, there won't be any increased lag as a result. So let's give three cheers to the mage Andrew - living proof that the best things in life are indeed free. Which reminds me...
 
 > In all candor, I ask that thy might bringith a place for the learned; a library. This would prove useful for those of which wish to aquire great knowledge in the history of our great land. Perhaps if we were literate... we could forge our own tomes, portraying the history for thine self. Sending Blessings,
 
-_Maro_
+*Maro*
 
 What a splendid idea. I know a building in Varrock that hasn't seen a lot of action for a while. I'll have a word with the council, I'm sure that they would be prepared to convert it- such is their commitment to public institutions.
 

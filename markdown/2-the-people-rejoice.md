@@ -56,7 +56,7 @@ But the question on nearly everyone's lips was when that of when our world would
 
 This will doubtless prove disappointing to some, but then even the gods can't please everyone. In the words of one adventurer:
 
-*"I got told by a friend the Runescape graphics are going to turn into really good graphics... if this is true, don't do it, as it would wreck the game."*
+> "I got told by a friend the Runescape graphics are going to turn into really good graphics... if this is true, don't do it, as it would wreck the game."
 
 Oh how I laughed. Even the Andrew was said to have managed a smile- which is no mean feat I can tell you.
 
