@@ -6,7 +6,7 @@
 <div style="clear:both"></div>
 
 > Dear Saradomin,
-
+>
 > The new aggresiveness of monsters is a pain!!! I simply try to mine and they kill me!!!! I once had a pick and a hammer and a mithril bar and the dwarves would not leave me alone and they killed me!!! Now I have nothing. Could you perhaps make the dwarves less aggresive? I think you should, but as a humble human I have no input....'sigh'.
 
 *Rockerest3*
@@ -26,7 +26,7 @@ The upshot of this is that honest miners should be able to mine ore slightly qui
 <div style="clear:both"></div>
 
 > To Saradomin,
-
+>
 > I have recently stepped into a new area, and saw a strange man selling fancy dress. However, I was shocked to see that he was selling a red party hat! Myself, and many other runescape players believe that the rare items such as hats, crackers, easter eggs, disc of returning, pumpkins etc are great things to own, and show a great symbol of wealth. However, it seems these are deliberatly being "spoilt" for us. Can you tell us what the future holds for such items, and if their status of wealth shall be destroyed?
 
 *Icedrop*
@@ -34,7 +34,7 @@ The upshot of this is that honest miners should be able to mine ore slightly qui
 Yes, there has been a lot of interest in the fancy dress shop and its red party hat. And if the shop-keeper was actually able to get some in stock, I'm sure there would even more. It seems that he has been advertising these hats as some kind of cheap marketing ploy, to get adventurers salivating in anticipation. It obviously worked...
 
 > Dear Saradomin,
-
+>
 > Recently i have been seeing hundreds of people wearing 'Priest Robes'. People are trying to sell them for ridiculous prices and when I ask where you get them they don't answer. Where can I find these robes? Are they some robes that have leaked out of members? Or are they just a figment of my imagination? Good day.
 
 *Psychopriest*
@@ -43,7 +43,7 @@ No, you're not imagining it- they really do exist. You can find them in south Va
 
 <a href="/images/archer.jpg"><img class="rsc-image" src="/images/archer.jpg" align="left" /></a>
 >  O Mighty Sage,
-
+>
 > Throughout the ages, archery has been the noblest of skills. The merging of bow and arrow in a coordinated effort to hit a target is a beautiful sight to see.
 > My concern is towards the attitudes of the other citizens (especially the more youthful and vulgar ones) who do not receive the archer so willingly. Archery and magic are the two major skills where a citizen can join into an established conflict, and perhaps even come away as the ultimate victor. Rather than investigate this ability and elevate their ranging skills, the non-archers curse and attempt to banish the archers. Granted, there are episodes where archers take advantage and at times antagonize the non-archers (although many of them deserve it), but it becomes a negative experience.
 
@@ -56,7 +56,7 @@ No, you're not imagining it- they really do exist. You can find them in south Va
 As a god of peace, I am a firm believer in the value of constructive dialogue. So please allow me to defer to a more contrary voice on the matter.
 
 > Greetings Saradomin,
-
+>
 > My suggestion concerns archers. It is great that we can use bows and arrows as alternatives to getting our hands dirty in melee combat, but I really cannot stand it when I am fighting with my trusty dragon axe and an archer comes along and steals some of my experience, shooting the monster I am fighting. It is rude, and the same goes for somebody starting a fight with a monster that is already getting ranged. Could you perhaps make it so that a monster cannot be attacked at all once it has already been attacked?
 
 *Mightyankh*
@@ -94,7 +94,7 @@ Only later did was it discovered that this was the work of Zamorock, cleverly de
 Yes, this does seem like a good idea. I understand that the powers that be will be implementing some kind of bank note system in the not too distant future. Your fiscal problems will soon be over!
 
 > If anyone should want to pay to play Runescape, I believe that they should only have to pay $5 in their own currency. Such as in Australia, we have to pay $10 Australian, which is about the same as $5 American. Why should we have to pay more to have the same rights as everyone in America? It's the same as making someone do something to get into a club when no-one else did. Why? Please make it fair on us soon, I hope you can even this out.
-
+>
 > Goodbye and ja bless,
 
 *Celoril*
@@ -102,7 +102,7 @@ Yes, this does seem like a good idea. I understand that the powers that be will 
 Perhaps I spoke to soon before. Even the greatest system of money is only as wise as the people who use it. But as far as fairness is concerned, I can tell you that $10 Australian is about the same as $5 American.
 
 > Saradomin,
-
+>
 > A couple of years ago, I was a newbie under the screen name FF9Gamr and I got ripped off right when I started (you probably knew since you are the god of RuneScape). I started a file named IRipYouOff because I thought nobody would ever try to rip me off. I am not respected much and would like your thoughts on how to interact with the RuneScape inhabitants.
 
 *IRipYouOff*

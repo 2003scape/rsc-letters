@@ -16,7 +16,7 @@ And so it is that time again when I respond to your many questions regarding thi
 Hmm... Zamorak's not that bad you know - actually he's worse! But he is still my brother, even if he can't be bothered to keep in touch these days. I do agree about the bones though. This was a popular request, and I can tell you that they should be available within the next week! So consider your prayers answered, and get on down to your nearest dragon.
 
 > Dear Saradomin,
-
+>
 > After hitting big bars of metal all day with my trusty hammer, i suddenly thought: "I wish i could wack someone over the head with this". Then an idea came to me. Why not create mighty war-hammers to blight thy enemies with. Higher power than axes and even less aim....wow. The different metals could all be used to make them and I think they would be a welcome new weapon to all us rune -scapers out there on the battlefields. Your faithfull warrior,
 
 <em class="rsc-centre-text">Nosvartu</em>
@@ -50,9 +50,9 @@ One individual even asked me how it feels to be "the first god that requires mon
 I've received a few notes from Runescapers who "feel left out" of the members game and wish they could access the new features. The answer to is of course... ..become a member! To quote a certain fellow from the Council of Runescape...
 
 > We currently need to concentrate on continued development for the membership servers as membership subscriptions pays for all support services (for free players as well), the running costs of all the machines(including free servers), staff wages (who help support free servers) and the development costs of new quests, skills and future technology.
-
+>
 > Please remember that the game was free for over a year before membership was even suggested. The fact that we're keeping so many free servers online now is a testament to the goodwill Jagex has towards the many thousands of free RuneScape players. The US\$5 monthly membership price is very reasonable considering how much entertainment you're getting. A cinema visit would give, at most, 2-3 hours of entertainment - RuneScape offers so much more than that!
-
+>
 > Why not consider becoming a member and help support the continued development of the game?
 
 I couldn't have put it better myself.

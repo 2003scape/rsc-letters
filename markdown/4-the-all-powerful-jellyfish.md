@@ -34,7 +34,7 @@ The main skills were combat, ranged, mining and smithing. Cooking consisted only
 Mourning partners were in time told that there were plenty more fish in the sea, but this was of little consolation, as no-one knew how to fish yet. There was also no crafting, and Lumbridge's traditional Sunday afternoon craft fairs were a bit of a let down as a result.
 
 > Saradomin,
-
+>
 > I believe the world of Runescape would be much better if you added music. You should also have bards to play music as an attack, that would be cool.
 
 *Rin Dragon.*
@@ -44,7 +44,7 @@ Music as an attack? It really would have to be offensively bad. But as for music
 <a href="/images/pumpkin.jpg"><img class="rsc-image" src="/images/pumpkin.jpg" align="left" /></a>
 
 > Mighty Saradomin,
-
+>
 > As I gaze around your beautiful world these days I notice that more and more people are wearing the robes of Zamorak, your dastardly brother. How am I a loyal Saradomin follower meant to show my loyalty to you without a set of robes? Please can you try to introduce robes of Saradomin for all your followers out there.
 
 <em class="rsc-centre-text">Your faithful worshipper, Eales88</em>
@@ -71,7 +71,7 @@ Why, what are you planning to do in there? Nothing untoward I hope. Yes, houses 
 Frustrated, he seems. I can't wait until he attempts the Biohazard Quest.
 
 > Dear Wise One,
-
+>
 > Twice in my travels, I have encountered a strange warrior who seemed very knowledgeable in this world. The warrior's name was "Paul" and seemed to be very important. The first meeting of him and I was in south west chapel near Port Sarim. I saw a man dressed in robes supposedly performing the vows of marriage for two people. The second time I witnessed this person was near the Desert at Easter. At this time I said a friendly greeting to him and he responded with a similar greeting, and then disappeared, leaving many Easter Eggs that my travelling partner immediately picked up. Who is this mysterious person and why are they so elusive?
 
 *Petros*
