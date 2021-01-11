@@ -2,10 +2,7 @@
   "name": "@2003scape/rsc-letters",
   "version": "1.0.0",
   "description": "archived letters from jagex to runescape classic players",
-  "main": "null",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "./letters.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/2003scape/rsc-letters.git"
